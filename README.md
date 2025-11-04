@@ -59,7 +59,7 @@ My goal: To create **innovative solutions** in the triad of artificial intellige
   <a href="mailto:mywithcontact@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="[https://your-portfolio.com](https://my-portfolio-ae-com.vercel.app/en)">
+  <a href="[https://your-portfolio.com](https://my-portfolio-ae-com.vercel.app/en]">
     <img src="https://img.shields.io/badge/Portfolio-%23000000?logo=vercel&logoColor=white&style=for-the-badge" />
   </a>
 </p>
