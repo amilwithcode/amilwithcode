@@ -53,16 +53,17 @@ My goal: To create **innovative solutions** in the triad of artificial intellige
 
 ## 🌐 Let’s Connect
 <p align="center">
-  <a href="www.linkedin.com/in/amil-eyvazov">
+  <a href="https://www.linkedin.com/in/amil-eyvazov">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:mywithcontact@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="[https://your-portfolio.com](https://my-portfolio-ae-com.vercel.app/en]">
+  <a href="https://my-portfolio-ae-com.vercel.app/en">
     <img src="https://img.shields.io/badge/Portfolio-%23000000?logo=vercel&logoColor=white&style=for-the-badge" />
   </a>
 </p>
+
 
 ---
 
