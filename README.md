@@ -1,8 +1,75 @@
-     <**Hello World**> I'm Amil
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=F76C6C&center=true&vCenter=true&width=800&lines=Hey+👋+I'm+Amil+Eyvazov;AI+Engineer+%7C+Cybersecurity+Learner;Full-Stack+Developer+%7C+Tech+Entrepreneur;I+build+solutions+that+matter+🚀" />
+</p>
 
-- 👋 Hi, I’m Amil.
-- 👀 I’m interested in software programing and robotics programing. 
-- 🌱 I’m currently learning software tecnologies and  robotics programing.
-- 📫 How to reach to contact me : mywithcontact@gmail.com
+---
+
+## 🌟 About Me
+💡 I don't just study technology — I **deploy it for real problems.**
+My goal: To create **innovative solutions** in the triad of artificial intelligence + cybersecurity + e-commerce.  
+
+🔹 Background: *Supply Chain Management & Finance*  
+🔹 Founder: *3D Printed Night Lamps Startup 💡*  
+🔹 Fun fact:When I write code, I think like both a developer and a designer. 🎨  
+
+---
+
+## ⚡ Tech Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,react,nextjs,tailwind,nodejs,mongodb,firebase,git,docker,figma" />
+</p>
+
+---
+
+## 🏅 Certifications
+- 🎓 **AI Engineering** – Coursera  
+- 🔒 **Cybersecurity** – Coursera  
+- 📈 **Digital Marketing & E-commerce** – Coursera  
+- 📦 **Supply Chain Management** – Coursera  
+- ✍️ **Prompt Engineering** – Coursera  
+
+---
+
+## 🚀 Highlight Projects
+### 🌧 Rainfall Prediction Classification  
+*Machine Learning model with weather data*  
+👉 [Repo](#)  
+
+### 🛒 AI-Powered E-commerce Website  
+*Next.js + AI competitor analysis + 3D visualization*  
+👉 [Repo](#)  
+
+### 🔒 GUI Vulnerability Scanner  
+*Pentesting toolkit with AI integration & PDF reporting*  
+👉 [Repo](#)  
 
 
+---
+
+## 📊 GitHub Pulse
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" height="160" />
+</p>
+
+---
+
+## 🌐 Let’s Connect
+<p align="center">
+  <a href="www.linkedin.com/in/amil-eyvazov">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:mywithcontact@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="[https://your-portfolio.com](https://my-portfolio-ae-com.vercel.app/en)">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000?logo=vercel&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F76C6C,100:FAD961&height=120&section=footer" />
+</p>
