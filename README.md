@@ -23,26 +23,22 @@ My goal: To create **innovative solutions** in the triad of artificial intellige
 ---
 
 ## 🏅 Certifications
-- 🎓 **AI Engineering** – Coursera  
-- 🔒 **Cybersecurity** – Coursera  
-- 📈 **Digital Marketing & E-commerce** – Coursera  
+- 🎓 **AI Engineering** –IBM course in Coursera  
+- 🔒 **Cybersecurity** –Google course in Coursera  
+- 📈 **Digital Marketing & E-commerce** – Google course in Coursera  
 - 📦 **Supply Chain Management** – Coursera  
 - ✍️ **Prompt Engineering** – Coursera  
 
 ---
 
-## 🚀 Highlight Projects
-### 🌧 Rainfall Prediction Classification  
-*Machine Learning model with weather data*  
-👉 [Repo](#)  
 
 ### 🛒 AI-Powered E-commerce Website  
 *Next.js + AI competitor analysis + 3D visualization*  
-👉 [Repo](#)  
+👉 [Repo][(https://github.com/amilwithcode/premium-global-shop)]
 
 ### 🔒 GUI Vulnerability Scanner  
 *Pentesting toolkit with AI integration & PDF reporting*  
-👉 [Repo](#)  
+👉 [Repo][(https://github.com/amilwithcode/AI-Powered-Pentest-Scanner)]  
 
 
 ---
@@ -50,7 +46,7 @@ My goal: To create **innovative solutions** in the triad of artificial intellige
 ## 📊 GitHub Pulse
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" height="160" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=your-username](https://github.com/amilwithcode/amilwithcode)&theme=radical&hide_border=true" height="160" />
 </p>
 
 ---
