@@ -34,11 +34,11 @@ My goal: To create **innovative solutions** in the triad of artificial intellige
 
 ### 🛒 AI-Powered E-commerce Website  
 *Next.js + AI competitor analysis + 3D visualization*  
-👉 [Repo][(https://github.com/amilwithcode/premium-global-shop)]
+👉 [Repo][#](https://github.com/amilwithcode/premium-global-shop)
 
 ### 🔒 GUI Vulnerability Scanner  
 *Pentesting toolkit with AI integration & PDF reporting*  
-👉 [Repo][(https://github.com/amilwithcode/AI-Powered-Pentest-Scanner)]  
+👉 [Repo][#](https://github.com/amilwithcode/AI-Powered-Pentest-Scanner)  
 
 
 ---
