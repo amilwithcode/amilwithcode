@@ -45,8 +45,8 @@ My goal: To create **innovative solutions** in the triad of artificial intellige
 
 ## 📊 GitHub Pulse
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" height="160" />
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=your-username](https://github.com/amilwithcode/amilwithcode)&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amilwithcode&show_icons=true&theme=radical&hide_border=true" height="160" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=amilwithcode](https://github.com/amilwithcode/amilwithcode)&theme=radical&hide_border=true" height="160" />
 </p>
 
 ---
