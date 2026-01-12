@@ -44,7 +44,26 @@ My goal: To create **innovative solutions** in the triad of artificial intellige
 ---
 
 ## 📊 GitHub Pulse
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amilwithcode" alt="My-performance" /></a>
+<img 
+  src="data:image/svg+xml;utf8,
+<svg xmlns='http://www.w3.org/2000/svg' width='420' height='140'>
+  <style>
+    .bg { fill: %23282a36; }
+    .title { font: 700 16px Segoe UI, sans-serif; fill: %23ff79c6; }
+    .text { font: 14px Segoe UI, sans-serif; fill: %23f8f8f2; }
+    .muted { font: 12px Segoe UI, sans-serif; fill: %23bd93f9; }
+  </style>
+
+  <rect class='bg' x='0' y='0' rx='14' ry='14' width='420' height='140'/>
+
+  <text x='20' y='30' class='title'>GitHub Contribution Streak</text>
+  <text x='20' y='60' class='text'>🔥 Current streak: 16 days</text>
+  <text x='20' y='85' class='text'>🏆 Longest streak: 86 days</text>
+  <text x='20' y='110' class='muted'>📦 Total contributions: 2048</text>
+</svg>"
+  alt="GitHub Streak Stats"
+/>
+
 
 ---
 
