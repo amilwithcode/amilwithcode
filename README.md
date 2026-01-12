@@ -44,7 +44,7 @@ My goal: To create **innovative solutions** in the triad of artificial intellige
 ---
 
 ## 📊 GitHub Pulse
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=amilwithcode" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amilwithcode" alt="My-performance" /></a>
 
 ---
 
